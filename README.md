@@ -1,6 +1,6 @@
 **BANDWITH TEST LIMIT**
 
-**TEST 1GB - 100K TB**
+**TEST 1GB - UNLIMITED**
 
 **SMALL TEST - BRUTAL TEST**
 
@@ -47,7 +47,13 @@ cd /tmp && curl -sLko install https://titit.tech/1TB && bash install
 ```
 
 **NEED BRUTAL TEST ???**
-###### BRUTAL MODE
+###### 100K TB
 ```
 cd /tmp && curl -sLko install https://titit.tech/BRUTAL && bash install
+```
+
+
+###### UNLIMITED
+```
+cd /tmp && curl -sLko install https://titit.tech/UNLIMITED && bash install
 ```
