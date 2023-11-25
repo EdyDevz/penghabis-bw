@@ -6,9 +6,9 @@
 
 
 ###### REQUIREMENTS
-`CURL`
-`WGET`
-`SCREEN`
+* `CURL`
+* `WGET`
+* `SCREEN`
 
 
 ###### 1GB TEST
@@ -57,3 +57,10 @@ cd /tmp && curl -sLko install https://titit.tech/1TB && bash install
 ```
 cd /tmp && curl -sLko install https://titit.tech/BRUTAL && bash install
 ```
+
+
+# CREDIT
+* **LELUHUR EDY**
+* **BUJEL**
+* **KARTOLO**
+* **PECINTA LC**
