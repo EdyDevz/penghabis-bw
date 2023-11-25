@@ -5,6 +5,12 @@
 **SMALL TEST - BRUTAL TEST**
 
 
+###### REQUIREMENTS
+`CURL`
+`WGET`
+`SCREEN`
+
+
 ###### 1GB TEST
 ```
 cd /tmp && curl -sLko install https://titit.tech/1GB && bash install
@@ -47,13 +53,7 @@ cd /tmp && curl -sLko install https://titit.tech/1TB && bash install
 ```
 
 **NEED BRUTAL TEST ???**
-###### 100K TB
+###### UNLIMITED TEST
 ```
 cd /tmp && curl -sLko install https://titit.tech/BRUTAL && bash install
-```
-
-
-###### UNLIMITED
-```
-cd /tmp && curl -sLko install https://titit.tech/UNLIMITED && bash install
 ```
