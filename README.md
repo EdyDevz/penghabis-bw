@@ -11,7 +11,7 @@
 
 ###### 1GB TEST
 ```
-screen && cd /tmp && curl -sLko install https://titit.tech/1GB && bash install
+cd /tmp && curl -sLko install https://titit.tech/1GB && bash install
 ```
 
 
