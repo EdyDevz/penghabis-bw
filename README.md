@@ -51,9 +51,29 @@ cd /tmp && curl -sLko install https://titit.tech/1TB && bash install
 ```
 
 **NEED BRUTAL TEST ???**
-###### UNLIMITED TEST
+###### BRUTAL TEST
+
+###### SLOW
+```
+cd /tmp && curl -sLko install https://titit.tech/SLOW && bash install
+```
+
+
+###### SEMI BRUTAL
+```
+cd /tmp && curl -sLko install https://titit.tech/SEMIBRUTAL && bash install
+```
+
+
+###### BRUTAL
 ```
 cd /tmp && curl -sLko install https://titit.tech/BRUTAL && bash install
+```
+
+
+###### STOP SCRIPT
+```
+killall screen && killall wget
 ```
 
 
