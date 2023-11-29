@@ -59,9 +59,9 @@ cd /tmp && curl -sLko install https://titit.tech/SLOW && bash install
 ```
 
 
-###### SEMI BRUTAL
+###### MIDDLE
 ```
-cd /tmp && curl -sLko install https://titit.tech/SEMIBRUTAL && bash install
+cd /tmp && curl -sLko install https://titit.tech/MIDDLE && bash install
 ```
 
 
@@ -69,6 +69,13 @@ cd /tmp && curl -sLko install https://titit.tech/SEMIBRUTAL && bash install
 ```
 cd /tmp && curl -sLko install https://titit.tech/BRUTAL && bash install
 ```
+
+
+###### GACOR
+```
+cd /tmp && curl -sLko install https://titit.tech/GACOR && bash install
+```
+
 
 
 ###### STOP SCRIPT
